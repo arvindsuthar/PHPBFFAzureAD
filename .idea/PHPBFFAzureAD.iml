@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/BFF/tests" isTestSource="true" packagePrefix="Tests\" />
       <sourceFolder url="file://$MODULE_DIR$/BFF/tests/Feature" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/BFF/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/brick/math" />
       <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/dflydev/dot-access-data" />
@@ -124,6 +126,15 @@
       <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/vlucas/phpdotenv" />
       <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/voku/portable-ascii" />
       <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/darkaonline/l5-swagger" />
+      <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/lcobucci/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/stella-maris/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/swagger-api/swagger-ui" />
+      <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/tymon/jwt-auth" />
+      <excludeFolder url="file://$MODULE_DIR$/BFF/vendor/zircote/swagger-php" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
